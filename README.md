@@ -15,6 +15,7 @@ Copy of Prompt Engeneering
 A) Neural Linguistic Programming
 
 B) Natural Language Processing...
+
 C) Nonlinear Prompt Logic
 
 D) National Language Protocol
@@ -28,6 +29,7 @@ A) Longitudinal Language Model
 B) Linguistic Learning Mechanism
 
 C) Large Language Model...
+
 D) Logical Lexical Matrix
 
 
@@ -37,6 +39,7 @@ D) Logical Lexical Matrix
 A) Automated Integration
 
 B) Artificial Intelligence...
+
 C) Algorithmic Interpretation
 
 D) Advanced Inference
@@ -48,6 +51,7 @@ D) Advanced Inference
 A) General Prompt Transformer
 
 B) Generative Pre-trained Transformer...
+
 C) Global Prompt Terminology
 
 D) Gradient Processing Toolkit
@@ -61,6 +65,7 @@ A) Top-performing Models
 B) Tokenized Prompt Probability
 
 C) Top Probability Percentage...
+
 D) Temperature Optimization Parameter
 
 
@@ -70,6 +75,7 @@ D) Temperature Optimization Parameter
 A) Model Training Time
 
 B) Output Creativity...
+
 C) Data Encryption
 
 D) Prompt Length
@@ -83,6 +89,7 @@ A) Graphic Design
 B) Statistical Analysis
 
 C) Programming Proficiency...
+
 D) Mechanical Engineering
 
 
